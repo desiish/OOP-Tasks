@@ -9,6 +9,6 @@ public:
 	virtual bool contains(int) const = 0;
 	int generateMember() const;
 	void printAllMembersInInterval(int a, int b) const;
-	virtual ~Set() = 0;
+	virtual ~Set() = default;
 };
 

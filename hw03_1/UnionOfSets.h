@@ -10,6 +10,5 @@ public:
 	bool contains(int x) const override;
 	int generateMember() const;
 	void printAllMembersInInterval(int a, int b) const;
-	~UnionOfSets() override;
 };
 

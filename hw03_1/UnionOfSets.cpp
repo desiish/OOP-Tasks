@@ -23,4 +23,3 @@ void UnionOfSets::printAllMembersInInterval(int a, int b) const
 {
 	Set::printAllMembersInInterval(a, b);
 }
-UnionOfSets::~UnionOfSets() = default;

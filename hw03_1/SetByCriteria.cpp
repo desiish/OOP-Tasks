@@ -14,4 +14,3 @@ void SetByCriteria::printAllMembersInInterval(int a, int b) const
 {
 	Set::printAllMembersInInterval(a, b);
 }
-SetByCriteria::~SetByCriteria() = default;

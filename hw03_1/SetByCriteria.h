@@ -26,6 +26,5 @@ public:
 	bool contains(int) const override;
 	int generateMember() const;
 	void printAllMembersInInterval(int a, int b) const;
-	~SetByCriteria() override;
 };
 

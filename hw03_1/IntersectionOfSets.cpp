@@ -23,4 +23,3 @@ void IntersectionOfSets::printAllMembersInInterval(int a, int b) const
 {
 	Set::printAllMembersInInterval(a, b);
 }
-IntersectionOfSets::~IntersectionOfSets() = default;
